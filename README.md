@@ -1,2 +1,2 @@
 # Node-DB-
-Node &amp; DB => conding !!
+Node &amp; MySQL => conding !!  
